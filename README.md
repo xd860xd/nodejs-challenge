@@ -25,3 +25,7 @@ Las variables de entorno necesarias son:
 
 Endpoints
 La documentacion de estos se puede encontrar en http://localhost:3000/swagger
+
+Postman
+La collecion de postman se puede cargar mediante el archivo
+test-bap.postman_collection.json
